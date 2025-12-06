@@ -1,4 +1,4 @@
-const apiKey = "bd4dfb6aef7ed173d501905847123e6c";  // replace with your key
+const apiKey = "your key";  // replace with your key
 
 const searchBtn = document.getElementById("searchBtn");
 const cityInput = document.getElementById("cityInput");
